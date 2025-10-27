@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.4.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: olivier.giorgis@quantstack.net
+author_name: ogiorgis
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlite-remote-kernel
+project_short_description: A JupyterLite extension to use a remote kernel
+python_name: jupyterlite_remote_kernel
+repository: ''
+test: false
+
